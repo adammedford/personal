@@ -1,11 +1,12 @@
 ---
 title: "adam medford"
+date: 2018
 ---
 
 - generic coder ordinaire
 - second thing
 
 
-- [x] JavaScript
-- [x] TypeScript
-- [x] C#
+- JavaScript
+- TypeScript
+- C#
