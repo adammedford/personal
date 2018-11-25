@@ -21,7 +21,7 @@ copyright = "(c) 2018 - 2019"
   name = "Adam Medford"
   github = "adammedford"
   email = "adammedford@gmail.com"
-  #gaid = "Your Google Analytics ID"
+  gaid = "UA-72408800-1"
   #twitter = "twitterID"
   #medium = "mediumUsername"
 
