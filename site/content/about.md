@@ -1,21 +1,11 @@
 ---
-title: "About this Theme"
-date: "2017-11-23"
+title: "adam medford"
 ---
 
-Hugo is a static site engine written in Go.
+- generic coder ordinaire
+- second thing
 
 
-It makes use of a variety of open source projects including:
-
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
-
-Special thanks to:
-
-* [nofancy](https://github.com/gizak/nofancy)
-* [cocoa-enhanced](https://github.com/mtn/cocoa-eh-hugo-theme)
+- [x] JavaScript
+- [x] TypeScript
+- [x] C#
